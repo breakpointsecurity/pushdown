@@ -1,3 +1,5 @@
+![CI Workflow](https://github.com/breakpointsecurity/pushdown/workflows/Java%20CI/badge.svg "CI Workflow")
+
 Library for creating weighted pushdown systems and generating finite automata from a given start configuration by the `pre-*` and `post-*` algorithms.
 
 The implementation follows the approach described in the following paper:
