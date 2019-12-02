@@ -7,6 +7,16 @@
     <packaging>jar</packaging>
     <version>1.1-SNAPSHOT</version>
     <url>https://github.com/breakpointsecurity/pushdown</url>
+    <name>pushdown</name>
+    <description>Pushdown systems for program analysis</description>
+    <developers>
+        <developer>
+            <id>main</id>
+            <name>Breakpoint GmbH</name>
+            <organization>Breakpoint GmbH</organization>
+            <url>https://www.breakpoint-security.de</url>
+        </developer>
+    </developers>
 
     <inceptionYear>2019</inceptionYear>
     <organization>
