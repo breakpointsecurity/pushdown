@@ -5,7 +5,7 @@
     <groupId>de.breakpointsec</groupId>
     <artifactId>pushdown</artifactId>
     <packaging>jar</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <url>https://github.com/breakpointsecurity/pushdown</url>
     <name>pushdown</name>
     <description>Pushdown systems for program analysis</description>
@@ -36,7 +36,7 @@
         <connection>scm:git:git://github.com/breakpointsecurity/pushdown.git</connection>
         <developerConnection>scm:git:git@github.com:breakpointsecurity/pushdown.git</developerConnection>
         <url>https://github.com/breakpointsecurity/pushdown</url>
-        <tag>HEAD</tag>
+        <tag>pushdown-1.1</tag>
     </scm>
 
     <licenses>
